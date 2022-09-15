@@ -1,0 +1,9 @@
+body{
+    background-color: rgb(182, 182, 182);
+}
+.img-letra{
+    width: 40px;
+}
+#formulario-pergunta{
+    margin-top: 5vh;
+}
